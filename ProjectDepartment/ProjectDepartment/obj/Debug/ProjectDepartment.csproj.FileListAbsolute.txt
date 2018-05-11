@@ -1,0 +1,15 @@
+c:\users\maria\documents\visual studio 2013\Projects\ProjectDepartment\ProjectDepartment\bin\Debug\ProjectDepartment.exe.config
+c:\users\maria\documents\visual studio 2013\Projects\ProjectDepartment\ProjectDepartment\bin\Debug\ProjectDepartment.exe
+c:\users\maria\documents\visual studio 2013\Projects\ProjectDepartment\ProjectDepartment\bin\Debug\ProjectDepartment.pdb
+c:\users\maria\documents\visual studio 2013\Projects\ProjectDepartment\ProjectDepartment\obj\Debug\ProjectDepartment.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2013\Projects\ProjectDepartment\ProjectDepartment\obj\Debug\ProjectDepartment.exe
+c:\users\maria\documents\visual studio 2013\Projects\ProjectDepartment\ProjectDepartment\obj\Debug\ProjectDepartment.pdb
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\ProjectDepartment\ProjectDepartment\obj\Debug\Interop.Converters.dll
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\ProjectDepartment\ProjectDepartment\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\ProjectDepartment\ProjectDepartment\obj\Debug\Interop.VSTAProjectPackageLib.dll
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\ProjectDepartment\ProjectDepartment\obj\Debug\Interop.VsWebApplicationHost.dll
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\ProjectDepartment\ProjectDepartment\obj\Debug\Interop.VsWebContextLib.dll
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\ProjectDepartment\ProjectDepartment\obj\Debug\Interop.VsWebProjectCBMLib.dll
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\ProjectDepartment\ProjectDepartment\obj\Debug\Interop.VsWebProjectMultiTargetingLib.dll
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\ProjectDepartment\ProjectDepartment\obj\Debug\Interop.WordAdapterLib.dll
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\ProjectDepartment\ProjectDepartment\obj\Debug\ProjectDepartment.csproj.ResolveComReference.cache
